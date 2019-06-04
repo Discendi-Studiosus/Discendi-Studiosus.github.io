@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This blog is a written account of my classics-learning journey. With regard to classical languages, I am interested in Greek, Latin, Babylonian Aramaic, and Biblical Hebrew. With regard to classical philosophy, I am interested in stoicism and particularly enjoy reading Seneca.
+This blog is a written account of my classics-learning journey. With regard to classical languages, I am interested in Greek, Latin, Aramaic, and Biblical Hebrew. With regard to classical philosophy, I am interested in stoicism and particularly enjoy reading Seneca.
 
 ### Goals for Summer 2019:
 
