@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blog is a written account of my classics-learning journey. With regard to classical languages, I am interested in Greek, Latin, Babylonian Aramaic, and Biblical Hebrew. With regard to classical philosophy, I am interested in stoicism and particularly enjoy reading Seneca.
