@@ -8,7 +8,7 @@ This blog is a written account of my classics-learning journey. With regard to c
 
 ### Goals for Summer 2019:
 
-1. Memorize all vocabulary from *Latin for the New Millenium* levels 1 and 2
+1. Memorize all vocabulary from *Latin for the New Millenium Level 1* and *Latin for the New Millenium Level 2*
 2. Learn grammar and vocabulary from *Basics of Biblical Hebrew*
 3. Learn grammar from *Grammar for Gemara & Targum Onkelos: An Introduction to Aramaic*
 4. Read Seneca
