@@ -1,8 +1,8 @@
 ---
-published: false
+layout: post
+title: Day 1: Progress Report
+published: true
 ---
-# Day 1: Progress Report
-
 ### Summary:
 
 Today, I devoted approximately 2.5 hours to language study. I was planning to spend more time on it but alas (it being the first day) I underestimated how long it would take to actualize my other plans. Starting from tomorrow, I will make to dedicate at least 4 hours per day to expanding my classics knowledge. Nevertheless, I was able to make some important first steps.
