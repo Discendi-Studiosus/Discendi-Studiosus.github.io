@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blogging Like a Hacker
+title: Day 1 - Progress Report
 ---
 
 ### Summary:
