@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Day 1: Progress Report
-published: true
 ---
 ### Summary:
 
