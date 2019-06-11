@@ -6,7 +6,7 @@ title: Legacy of the Industrial Revolution
 
 *Although the Industrial Revolution is not exactly a classics subject, it is a topic I have been interested in for a while now. Here's an essay that I wrote about its legacy.*
 
-# Legacy of the Industrial Revolution: Marxism and the Malthusian Trap 
+## Marxism and the Malthusian Trap 
 	
 	
 The Industrial Revolution, a transition to new manufacturing processes in Europe and the U.S. between 1760 and 1840, was characterized by technological, socioeconomic, and cultural advances. Although socialists such as Marx condemned industrialization and capitalism as instruments of oppression and exploitation, in reality, they improved the standard of living by overcoming the Malthusian trap and widening the wealth distribution through the expansion of the middle class.
