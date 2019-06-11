@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Legacy of the Industrial Revolution: Marxism and the Malthusian Trap 
+title: Legacy of the Industrial Revolution
 ---
+
 
 Although the Industrial Revolution is not exactly a classics subject, it is a topic I have been interested in for a while now. Here's an essay that I wrote about its legacy.
 
