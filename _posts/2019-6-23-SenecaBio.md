@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dying Every Day: Seneca at the Court of Nero (James Romm)
+title: Dying Every Day
 ---
 
 Having read some of Seneca's writings, I realized that in order to fully appreciate them I would need to understand the historical context in which they were written. Thus, I purchased and read thoroughly this fascinating biography. I decided that I would discuss one of the topics from the book that most intrigued me:
