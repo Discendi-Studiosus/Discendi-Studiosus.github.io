@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Takeaways from Biography of Seneca
+title: Takeaways from a Biography on Seneca
 ---
 
-Having read some of Seneca's writings, I realized that in order to fully appreciate them I would need to understand the historical context in which they were written. Thus, I purchased and read thoroughly this fascinating biography. I decided that I would discuss one of the topics from the book that most intrigued me:
+*Dying Every Day: Seneca at the Court of Nero* by James Romm
+
+
+Having read some of Seneca's writings, I realized that in order to fully appreciate them I would need to understand the historical context in which they were written. Thus, I purchased and read with great interest this fascinating biography. I decided that I would discuss here one of the more intriguing topics from the book:
 
 ### Seneca's Suicide
 
