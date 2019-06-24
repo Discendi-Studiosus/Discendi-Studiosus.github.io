@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dying Every Day
+title: Takeaways from Biography of Seneca
 ---
 
 Having read some of Seneca's writings, I realized that in order to fully appreciate them I would need to understand the historical context in which they were written. Thus, I purchased and read thoroughly this fascinating biography. I decided that I would discuss one of the topics from the book that most intrigued me:
