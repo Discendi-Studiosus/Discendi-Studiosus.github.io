@@ -14,7 +14,7 @@ As part of the course I am taking from UPenn on Greek and Roman mythology, I rea
 5. When you tell a lie, you should tell a lie that's close to the truth
 6. Secrecy creates intimacy
 ## Toolbox for Analyzing Myths like *The Odyssey* (course has discussed two conceptual frameworks for myth so far)
-1. Functionalism: when cultures tell myths, they seek legitimize certain cultural/social norms that they hold dear.
+1. Functionalism: when cultures tell myths, they seek to legitimize certain cultural/social norms that they hold dear.
 2. Structuralism: at the core of all cultural content lie binary oppositions, and cultures will all place the same pairs of concepts in opposition even if they don't define the concepts in the same way
 ### Examples of Appying the Toolbox on *The Odyssey*
 1. Xenia (functionalism): One of the main cultural innovations that enabled the Greeks to become such successful traders was the concept of xenia or extreme hospitality. It instructed Greeks to welcome strangers and lavish gifts upon them rather than fear or rebuke them. In the context of trade, the assurance of hospitality made merchants more willing to export their goods and created a commerce-friendly environment. *The Odyssey* legitimizes the cultural norm of xenia by describing numerous instances of its correct application and elevating good hosts as rightheous individuals, as well as by describing examples of its abuse/perversion and the negative consequences that arise from such violations.
