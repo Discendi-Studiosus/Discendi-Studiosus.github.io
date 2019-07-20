@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aeneid and Teleology: My Issue with Universal Law #8
+title: My Issue with Universal Law #8
 ---
 
 # *Aeneid* and Teleology: My Issue with Universal Law #8
