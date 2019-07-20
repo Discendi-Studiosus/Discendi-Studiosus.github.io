@@ -3,7 +3,7 @@ layout: post
 title: Aeneid Takeaways
 ---
 
-Interesting Takeaways from Study of the *Aeneid*:
+### Interesting Takeaways from Study of the *Aeneid*:
 
 *Roman myth is not a derivative of Greek myth:*
 
