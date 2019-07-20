@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Structuralism: Aeneid and Eumenides
+title: Structuralism\: Aeneid vs. Eumenides
 ---
 
 
