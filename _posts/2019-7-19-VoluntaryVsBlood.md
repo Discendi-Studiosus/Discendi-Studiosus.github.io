@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Structuralism\: Aeneid vs. Eumenides
+title: Structuralism Aeneid vs. Eumenides
 ---
 
 
-### Structuralism: Voluntary and Blood Associations in the *Aeneid* and the *Eumenides*
+#### Structuralism: Voluntary and Blood Associations in the *Aeneid* and the *Eumenides*
 
 From a structuralist point of view, the binary opposition between voluntary and blood associations is the driving force behind both the *Aeneid* and the *Eumenides*. The contrasting outcomes of these oppositions may reflect a contrasting cultural view between Greeks and Romans. 
 
